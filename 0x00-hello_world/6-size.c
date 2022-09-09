@@ -7,11 +7,11 @@
  */
 int main(void)
 {
+	#warning int datatype does not hold more than 2^31-1
 	printf("Size of a char: %u byte(s)\n", sizeof(char));
 	printf("Size of a int: %u byte(s)\n", sizeof(int));
 	printf("Size of a long int: %u byte(s)\n", sizeof(long));
 	printf("Size of a long long int: %u byte(s)\n", sizeof(long long));
 	printf("Size of a float: %u byte(s)\n", sizeof(float));
-	fprintf(stderr, "Anything\n");
 	return (0);
 }
