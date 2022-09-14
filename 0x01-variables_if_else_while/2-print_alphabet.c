@@ -2,8 +2,10 @@
 
 /**
  * main - prints the alphabet in lowercase
+ *
+ * Return: 0
 */
-void main(void)
+int main(void)
 {
 	int ascii = 97;
 
@@ -13,4 +15,5 @@ void main(void)
 		ascii = ascii + 1;
 	}
 	putchar(10);
+	return (0);
 }
