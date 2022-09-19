@@ -38,4 +38,4 @@ What you should learn from this project:
 ---
 
 ## Author
-* **Alabi Khalid** - [Alabi Khalid](https://github.com/theegr8dev)
+* **Alabi Khalid** - [theegr8dev](https://github.com/theegr8dev)
