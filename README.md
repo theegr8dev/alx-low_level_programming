@@ -16,4 +16,4 @@ ALX curriculum for low-level programming. These projects are meant to help us le
 ---
 
 ## Author
-Alabi Khalid - [kai-dg](https://github.com/theegr8dev
+Alabi Khalid - [Alabi-Khalid](https://github.com/theegr8dev)
