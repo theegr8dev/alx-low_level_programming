@@ -12,3 +12,8 @@ ALX curriculum for low-level programming. These projects are meant to help us le
 ### [0x02. C - Functions, nested loops](./0x02-functions_nested_loops)
 
 ### [0x03. C - More functions, more nested loops](./0x03-more_functions_nested_loops)
+
+---
+
+## Author
+Alabi Khalid - [kai-dg](https://github.com/theegr8dev
