@@ -1,5 +1,4 @@
-# 
-0x03. C - Debugging
+# 0x03. C - Debugging
 
 ## Description
 What you should learn from this project:
