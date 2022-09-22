@@ -13,6 +13,10 @@ void _puts(char *str)
 	while (s != '\0')
 	{
 		s = str[c++];
+		if (s == '\0')
+		{
+			break;
+		}
 		_putchar(s);
 	}
 	_putchar(10);
