@@ -26,7 +26,7 @@ void puts_half(char *str)
 	}
 	else
 	{
-		while (odd < len)
+		while (odd < len - 1)
 		{
 			odd++;
 			_putchar(str[odd]);
