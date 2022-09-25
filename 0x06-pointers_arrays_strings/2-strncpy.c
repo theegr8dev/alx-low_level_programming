@@ -22,14 +22,15 @@ char *_strncpy(char *dest, char *src, int n)
 		s_len++;
 	}
 
-	while (m < n)
+	while (m < n && src[m] != '\0')
 	{
-		if (m > d_len)
-		{
-			break;
-		}
 		dest[m] = src[m];
 		m++;
 	}
+	for (; m < n; m++)
+	{
+		dest[m] = '\0';
+	}
+	
 	return (dest);
 }
