@@ -1,4 +1,4 @@
-# 0x04. C - Pointers, arrays and strings
+# 0x05. C - Pointers, arrays and strings
 
 ## Description
 What you should learn from this project:
