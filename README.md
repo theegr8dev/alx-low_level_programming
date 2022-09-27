@@ -11,7 +11,13 @@ ALX curriculum for low-level programming. These projects are meant to help us le
 
 ### [0x02. C - Functions, nested loops](./0x02-functions_nested_loops)
 
-### [0x03. C - More functions, more nested loops](./0x03-more_functions_nested_loops)
+### [0x03. C - Debuggging](./0x03-debugging)
+
+### [0x04. C - More functions, more nested loops](./0x04-more_functions_nested_loops)
+
+### [0x05. C - Pointers, arrays and strings](./0x05-pointers_arrays_strings)
+
+### [0x06. C - More pointers, arrays and strings](./0x06-pointers_arrays_strings)
 
 ---
 
